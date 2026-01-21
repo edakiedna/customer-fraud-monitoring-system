@@ -33,18 +33,18 @@ This table represents raw transactional activity enriched with fraud signals.
 
 **Key Fields**
 
- transaction_id
- customer_id
- transaction_date, transaction_hour
- amount_ngn
- merchant_name, category
- risk_score
- fraud_flag
- fraud_category
- ip_address
- customer_lat, customer_long
- device_lat, device_long
- customer_region
+ `transaction_id`
+ `customer_id`
+ `transaction_date`, `transaction_hour`
+ `amount_ngn`
+ `merchant_name`, `category`
+ `risk_score`
+ `fraud_flag`
+ `fraud_category`
+ `ip_address`
+ `customer_lat`, `customer_long`
+ `device_lat`, `device_long`
+ `customer_region`
 
  **Purpose:**
 Used for **trend analysis, fraud signals, geospatial analysis, and network detection**.
@@ -58,18 +58,17 @@ This table aggregates 30-day behavior **per customer**.
 
 **Key Fields**
 
- customer_id
- total_txn_count_30d
- fraud_txn_30d_count
- suspicious_event_30d_count
- avg_risk_score_30d
- max_risk_score_30d
- total_amount_30d
- customer_fraud_status
- fraud_severity_score
- fraud_priority_rank
- customer_name
-
+ `customer_id`
+ `total_txn_count_30d`
+ `fraud_txn_30d_count`
+ `suspicious_event_30d_count`
+ `avg_risk_score_30d`
+ `max_risk_score_30d`
+ `total_amount_30d`
+ `customer_fraud_status`
+ `fraud_severity_score`
+ `fraud_priority_rank`
+ `customer_name`
  **Purpose:**
 Single source of truth for **who fraud analysts should act on**.
 
@@ -115,9 +114,9 @@ END
 
 Customers are ranked using:
 
-* Fraud frequency
-* Risk score severity
-* Suspicious behavior density
+ Fraud frequency
+ Risk score severity
+ Suspicious behavior density
 
 ```sql
 NTILE(100) OVER (ORDER BY avg_risk_score_30d) AS risk_percentile
@@ -149,7 +148,7 @@ Fraud teams can focus on **top-risk customers first**, not raw transaction volum
 
 Answers:
 
- *Who should investigators focus on today?*
+ > *Who should investigators focus on today?*
 
 
 
