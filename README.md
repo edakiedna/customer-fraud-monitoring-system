@@ -137,7 +137,7 @@ Fraud teams can focus on **top-risk customers first**, not raw transaction volum
  KPI cards (fraud rate, confirmed fraud count, investigation queue)
 
 
-# 2️⃣ Customer Risk & Investigation Queue
+# 2️ Customer Risk & Investigation Queue
 
 **Purpose:** Analyst-ready customer list
 
@@ -161,7 +161,7 @@ Answers:
  Heatmaps by fraud severity
 
 
-# 4️⃣ Network & Fraud Rings
+# 4️ Network & Fraud Rings
 
 **Purpose:** Reveal coordinated fraud
 
@@ -178,7 +178,7 @@ Answers:
  **GitHub** — version control & documentation
 
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```
 fraud-detection-project/
@@ -209,7 +209,7 @@ fraud-detection-project/
  Built to support **fraud analysts, risk teams, and executives**
 
 
-# 👤 Author
+#  Author
 
 **[EDNA IYORE EDAKI]**
 Data Analyst | Fraud Analytics | SQL | Tableau
