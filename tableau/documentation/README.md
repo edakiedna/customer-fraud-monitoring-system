@@ -69,10 +69,10 @@ Device and customer locations may differ due to:
 - Fraud rings operating remotely
 
 
-# 4. Network & Fraud Rings Dashboard
+## 4. Network & Fraud Rings Dashboard
+
 
 ```
-
 ![Network & Fraud Rings](documentation/screenshots/network_fraud_rings.png)
 
 ### Fraud Indicators
