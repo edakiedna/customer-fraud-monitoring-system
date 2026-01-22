@@ -37,7 +37,7 @@ risk severity and recent suspicious behavior .
 - Reduce investigation backlog
 
 
-## 3. Geospatial & Device Risk Dashboard
+# 3. Geospatial & Device Risk Dashboard
 
 ```markdown
 ## 3. Geospatial & Device Risk Dashboard
@@ -69,7 +69,7 @@ Device and customer locations may differ due to:
 - Fraud rings operating remotely
 
 
-## 4. Network & Fraud Rings Dashboard
+# 4. Network & Fraud Rings Dashboard
 
 ```markdown
 ## 4. Network & Fraud Rings Dashboard
