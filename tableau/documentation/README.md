@@ -24,7 +24,8 @@ risk distribution, and dominant fraud signals.
 ```
 # 2. Customer Risk & Investigation Queue Dashboard
 
-![Customer Risk Investigation Queue](documentation/screenshots/investigation_queue.png)
+![Customer Risk Investigation Queue](documentation/screenshots/investigation_queue_1.png)
+![Customer Risk Investigation Queue](documentation/screenshots/investigation_queue_2.png)
 
 # Business Objective
 Support fraud analysts by prioritizing customers requiring investigation based on
