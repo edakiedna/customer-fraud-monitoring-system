@@ -37,7 +37,6 @@ risk severity and recent suspicious behavior .
 - Reduce investigation backlog
 
 
-# 3. Geospatial & Device Risk Dashboard
 
 ```
 ## 3. Geospatial & Device Risk Dashboard
