@@ -51,16 +51,16 @@ and remote fraud operations.
 # Business Objective
 Detect anomalies between customer home locations and transaction/device locations.
 
-### Key Visuals
+# Key Visuals
 - Customer Home Location Fraud Map
 - Device Location Fraud Map
 
-### Fraud Patterns Detected
+# Fraud Patterns Detected
 - Location mismatch fraud
 - Cross-border device abuse
 - Shared device risk clusters
 
-### Important Note
+# Important Note
 Device and customer locations may differ due to:
 - VPN usage
 - Proxy routing
