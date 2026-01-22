@@ -72,7 +72,7 @@ Device and customer locations may differ due to:
 ```
 # 4. Network & Fraud Rings Dashboard
 
-![Network & Fraud Rings Dashboard](documentation/screenshots/network_&_fraud_ring.png)
+![Network & Fraud Rings Dashboard](screenshots/network_&_fraud_ring.png)
 
 ### Fraud Indicators
 - Shared IP usage across multiple customers
