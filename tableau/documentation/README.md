@@ -16,7 +16,7 @@ investigation prioritization, geospatial risk analysis, and network fraud detect
 - Enables quick monitoring of suspicious transactions
 ```
 
-### Key Insights Enabled
+# Key Insights Enabled
 - Identify dominant fraud patterns (e.g. shared IP rings, location mismatch)
 - Track fraud growth or decline over time
 - Understand proportion of customers under monitoring vs investigation
@@ -43,12 +43,12 @@ risk severity and recent suspicious behavior .
 
 ![Geospatial & Device Risk Dashboard](screenshots/geospatial_&_device_risk.png)
 
-### Interpretation
+# Interpretation
 Customer and device locations differ due to VPN usage, proxy routing,
 and remote fraud operations.
 ```
 
-### Business Objective
+# Business Objective
 Detect anomalies between customer home locations and transaction/device locations.
 
 ### Key Visuals
