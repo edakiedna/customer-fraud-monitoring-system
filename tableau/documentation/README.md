@@ -9,11 +9,11 @@ investigation prioritization, geospatial risk analysis, and network fraud detect
 ```
 # 1. Overview Dashboard
 
-![Overview Dashboard](documentation/screenshots/overview_dashboard.png)
+![Overview Dashboard](screenshots/overview_dashboard.png)
 
-### Business Objective
-Provide executives and fraud managers with a real-time snapshot of fraud exposure,
-risk distribution, and dominant fraud signals.
+**Purpose**
+- High-level view of fraud activity across the system
+- Enables quick monitoring of suspicious transactions
 ```
 
 ### Key Insights Enabled
@@ -24,8 +24,7 @@ risk distribution, and dominant fraud signals.
 ```
 # 2. Customer Risk & Investigation Queue Dashboard
 
-![Customer Risk Investigation Queue](documentation/screenshots/investigation_queue_1.png)
-![Customer Risk Investigation Queue](documentation/screenshots/investigation_queue_2.png)
+![Customer Risk Investigation Queue Dashboard](screenshots/customer_risk_&_investigation_queue.png)
 
 # Business Objective
 Support fraud analysts by prioritizing customers requiring investigation based on
@@ -43,7 +42,7 @@ risk severity and recent suspicious behavior .
 ```
 ## 3. Geospatial & Device Risk Dashboard
 
-![Location_Fraud_map](documentation/screenshots/geo_device_risk_map.png)
+![Geospatial & Device Risk Dashboard](screenshots/geospatial_&_device_risk.png)
 
 ### Interpretation
 Customer and device locations differ due to VPN usage, proxy routing,
@@ -73,7 +72,7 @@ Device and customer locations may differ due to:
 ```
 # 4. Network & Fraud Rings Dashboard
 
-![Network & Fraud Rings](documentation/screenshots/network_fraud_rings.png)
+![Network & Fraud Rings Dashboard](documentation/screenshots/network_&_fraud_ring.png)
 
 ### Fraud Indicators
 - Shared IP usage across multiple customers
