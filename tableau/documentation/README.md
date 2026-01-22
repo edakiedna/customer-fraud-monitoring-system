@@ -21,7 +21,7 @@ risk distribution, and dominant fraud signals.
 - Track fraud growth or decline over time
 - Understand proportion of customers under monitoring vs investigation
 
-```markdown
+```
 # 2. Customer Risk & Investigation Queue Dashboard
 
 ![Customer Risk Investigation Queue](documentation/screenshots/investigation_queue.png)
