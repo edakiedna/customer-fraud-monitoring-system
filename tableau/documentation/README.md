@@ -39,7 +39,7 @@ risk severity and recent suspicious behavior .
 
 # 3. Geospatial & Device Risk Dashboard
 
-```markdown
+```
 ## 3. Geospatial & Device Risk Dashboard
 
 ![Location_Fraud_map](documentation/screenshots/geo_device_risk_map.png)
@@ -71,7 +71,7 @@ Device and customer locations may differ due to:
 
 # 4. Network & Fraud Rings Dashboard
 
-```markdown
+```
 
 ![Network & Fraud Rings](documentation/screenshots/network_fraud_rings.png)
 
