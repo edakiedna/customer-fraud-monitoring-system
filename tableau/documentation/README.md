@@ -73,25 +73,25 @@ Device and customer locations may differ due to:
 
 ![Network & Fraud Rings Dashboard](screenshots/network_&_fraud_ring.png)
 
-### Fraud Indicators
+# Fraud Indicators
 - Shared IP usage across multiple customers
 - Mixed fraud statuses within same IP address
 ```
-### Business Objective
+# Business Objective
 Expose coordinated fraud activities using shared IP addresses and network behavior.
 
-### Key Visuals
+# Key Visuals
 - IP Address vs Customer ID Heatmap
 - Customer Fraud Status Distribution by IP
 - Distinct Customer Count per IP
 
-### Fraud Indicators
+# Fraud Indicators
 - High number of customers sharing same IP
 - Mixed fraud statuses within same IP block
 - Repeated suspicious access patterns
 
 
-## Fraud Status Color Logic
+# Fraud Status Color Logic
 - 🟢 Monitor
 - 🟡 Review
 - 🟠 Investigate
