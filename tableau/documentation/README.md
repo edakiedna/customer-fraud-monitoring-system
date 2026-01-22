@@ -45,7 +45,7 @@ risk severity and recent suspicious behavior .
 ```markdown
 ## 3. Geospatial & Device Risk Dashboard
 
-![geo_device_risk_map](documentation/screenshots/geo_device_risk_map.png)
+![Location_Fraud_map](documentation/screenshots/geo_device_risk_map.png)
 
 ### Interpretation
 Customer and device locations differ due to VPN usage, proxy routing,
