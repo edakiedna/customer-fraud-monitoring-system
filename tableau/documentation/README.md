@@ -72,7 +72,6 @@ Device and customer locations may differ due to:
 # 4. Network & Fraud Rings Dashboard
 
 ```markdown
-## 4. Network & Fraud Rings Dashboard
 
 ![Network & Fraud Rings](documentation/screenshots/network_fraud_rings.png)
 
